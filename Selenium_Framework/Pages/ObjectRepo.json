@@ -1,0 +1,33 @@
+{
+    "Home": {
+        "logo_alinta_energy": {
+            "xpath": "//a[@aria-label='Alinta Energy']",
+            "desc": "Alinta Energy Logo on left top"
+        },
+        "lnk_IamMovingHouseandNeedEnergy": {
+            "xpath": "//button[contains(.,'moving house and need energy')]",
+            "desc": "I am moving house and need energy button"
+        },
+        "lnk_Residential": {
+            "xpath": "//nav[@class='cmp-header__menu']//button[contains(.,'Residential')]",
+            "desc": "Residential link in home page"
+        },
+        "lnk_Electricity_and_Gas": {
+            "xpath": "//nav[@class='cmp-header__menu']//a[contains(.,'Electricity and Gas')]",
+            "desc": "Electricity and Gas link under Residential Link"
+        }
+    },
+    "MoveHouseNeedPowerPopup": {
+        "btn_go_back": {
+            "xpath": "//button[contains(.,'Go Back')]",
+            "desc": "<-- Go back Button"
+        }
+
+    },
+    "Residential_Electricity_Gas" :{
+        "txt_post_code":{
+            "xpath" : "//input[@id=\"input-postcode\"]",
+            "desc": "Post code text box in Electricity and gas page"
+        }
+    }
+}

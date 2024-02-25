@@ -1,0 +1,4 @@
+Plan for Objects - static object
+Plan for Page - dynamic object
+Plan for report
+plan for Image comparison
